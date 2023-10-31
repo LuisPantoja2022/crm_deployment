@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6532c0db41d17a5a86c1877b"
+  },
+  "nombre": "jose",
+  "apellido": "Perez",
+  "empresa": "facebook",
+  "email": "correo2@correo",
+  "telefono": "15165153656",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65393e63c09b3cf4f0c7974f"
+  },
+  "nombre": "luis",
+  "apellido": "Pantoja",
+  "empresa": "jswork",
+  "email": "luis@luis.com",
+  "telefono": "45522485",
+  "__v": 0
+}]

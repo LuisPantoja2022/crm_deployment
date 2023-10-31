@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "653a9e71fe768617a60762b6"
+  },
+  "nombre": "camisa Sass",
+  "precio": 30,
+  "imagen": "k3YbTRjaS.jpeg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653a9ebafe768617a60762c0"
+  },
+  "nombre": "camisa Angularjs",
+  "precio": 50,
+  "imagen": "SRBXg9ZPz.jpeg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653a9fa1fe768617a6077ed8"
+  },
+  "nombre": "camisa react",
+  "precio": 50,
+  "imagen": "cVZFkUxot.jpeg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653aaa380b96ba8d69b9111f"
+  },
+  "nombre": "camisa nodejs",
+  "precio": 30,
+  "imagen": "_br4WQ_c5.jpeg",
+  "__v": 0
+}]
